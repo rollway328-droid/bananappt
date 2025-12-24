@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 关联站点地图（指向你的域名）
+Sitemap: https://bananappt.org/sitemap.xml
